@@ -30,11 +30,10 @@ The application retrieves live weather data from the Open-Meteo API, displays fo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-dashboard.git
+git clone https://github.com/semah-abid/weather-dashboard.git
 cd weather-dashboard
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Install dependencies
 
